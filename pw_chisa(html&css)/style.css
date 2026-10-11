@@ -1,0 +1,492 @@
+body {
+    background-color: #e6f2ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+main{
+    background-color: #ffffff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0,0, 0);
+}
+section{
+    border-left: 6px solid #0056b3;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    header h1{
+        color: #0056b3;
+        ext-align: center;
+    }
+    header p {
+        text-align: center;
+        color: #555555;
+        font-style: italic;
+    }
+    h2 {
+        color #333333
+        margin: top 0;
+    }
+    section div h3 + ul,
+    section ul
+    background-color: #ffe6f2
+    border : 1px solid #ffb3d9
+    padding: 20px 20px 20px 40px;
+    border-radius : 6px;
+}
+
+pre{
+    background-color: #1e1e1e;
+    color: #4fc1ff;
+    padding: 15px;
+    border-radius: 6px;
+    overflow-x: auto;
+}
+
+body{
+    background-color: #f0f4f8;
+    font-family: 'Sege UI'; Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px 0px;
+}
+main{
+    background-color: #ffffff;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+section{
+    border-left: 5px solid #3b82f6;
+    padding-left: 25px;
+    margin-bottom: 20px;
+}
+section h2{
+    color: #1e3a8a;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+section p{
+    color: #334155;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+pre{
+    background-color: #0b1a30;
+    padding: 20px;
+    border-radius: 6px;
+    overflow-x: auto;
+    margin: 15px 0;
+    position: relative;
+}
+pre code{
+    color #ffffff;
+    font-family: 'Corier New', Courier, monospace;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    white-space: pre-wrap;
+}
+section div, 
+section h3 + ul {
+    background-color: #eae8f5; /* Warna ungu/pink pastel lembut sesuai gambar */
+    border-radius: 6px;
+    padding: 25px;
+    margin-top: 20px;
+}
+section div h3 {
+    color: #1e3a8a;
+    margin-bottom: 15px;
+}
+section div ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+section div li {
+    color: #334155;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+section div li strong {
+    color: #0f172a;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 0.95rem;
+}
+th {
+    background-color: #1e40af; 
+    color: #ffffff;            
+    text-align: left;
+    padding: 15px 20px;        
+    font-weight: 600;
+}
+td {
+    padding: 15px 20px;
+    color: #475569;            
+    border-bottom: 1px solid #e2e8f0;
+
+ tbody tr:nth-child(even) {
+    background-color: #f8fafc; 
+}
+td code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+    color: #334155;
+    padding: 0;
+}
+section div.live-examples-container,
+section h2 + div {
+    background-color: #ffffff;
+    border: 2px dashed #cbd5e1;
+    border-radius: 8px;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+section div h1 {
+    color: #1e3a8a;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+section div h2 {
+    color: #2563eb;
+    font-size: 1.4rem;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #1e3a8a;
+    margin-bottom: 15px;
+}
+
+section div h3 {
+    color: #1e3a8a;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+section div p {
+    font-size: 0.95rem;
+    color: #475569;
+    margin-bottom: 15px;
+}
+
+section div a {
+    color: #3b82f6;
+    text-decoration: underline;
+}
+
+section div ul, 
+section div ol {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: #475569;
+}
+
+section div li {
+    margin-bottom: 8px;
+}
+<section>
+    <h2>🎯 Live Examples:</h2>
+    <div class="live-examples-container">
+        <h1>This is an H1 heading</h1>
+
+        section form,
+section div.form-container {
+    background-color: #ffffff;
+    border: 2px dashed #cbd5e1;
+    border-radius: 8px;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+section form h3 {
+    color: #1e3a8a;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+}
+
+form div {
+    margin-bottom: 15px;
+}
+
+form label {
+    font-size: 0.95rem;
+    color: #475569;
+    font-weight: 500;
+}
+
+form input[type="text"],
+form input[type="email"],
+form select,
+form textarea {
+    width: 100%;
+    padding: 10px 12px;
+    margin-top: 6px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    color: #334155;
+    background-color: #f8fafc;
+    box-sizing: border-box;
+}
+
+form textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+form button,
+form button[type="button"] {
+    background-color: #3b82f6;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 0.95rem;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    width: auto;
+    margin-top: 10px;
+    transition: background-color 0.2s;
+}
+
+form button:hover {
+    background-color: #1d4ed8;
+}
+section div ul li strong {
+    color: #1e3a8a;
+    font-family: Consolas, 'Courier New', monospace;
+    background-color: rgba(30, 58, 138, 0.08);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+}
+section div.table-sample-container,
+section h3 + table {
+    background-color: #ffffff;
+    border: 2px dashed #cbd5e1;
+    border-radius: 8px;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+section div.table-sample-container h3 {
+    color: #1e3a8a;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+section div.table-sample-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+section div.table-sample-container th {
+    background-color: #3b82f6;
+    color: #ffffff;
+    text-align: left;
+    padding: 12px 15px;
+    font-weight: 600;
+    border: none;
+}
+
+section div.table-sample-container td {
+    padding: 14px 15px;
+    color: #475569;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+section div.table-sample-container tbody tr {
+    background-color: transparent !important;
+}
+<div class="table-sample-container">
+    <h3>Sample Table:</h3>
+    <table border="1">
+        ...
+    </table>
+</div>
+section.practice-container,
+section h2 + h3 {
+    background-color: #fce7f3;
+    border-radius: 8px;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+section.practice-container h3 {
+    color: #1e3a8a;
+    font-size: 1.15rem;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+section.practice-container h3:nth-of-type(2) {
+    margin-top: 30px;
+}
+
+section.practice-container ol {
+    margin-left: 20px;
+    margin-bottom: 0;
+    color: #475569;
+}
+
+section.practice-container ol li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+<section>
+    <h2>💻 Practice Exercises</h2>
+    
+    <div class="practice-container">
+        <h3>Beginner Tasks:</h3>
+        <ol>
+            <li>Create a basic HTML page...</li>
+        </ol>
+
+        <h3>Intermediate Tasks:</h3>
+        <ol>
+            <li>Create a contact form...</li>
+        </ol>
+    </div>
+</section>
+section pre code {
+    white-space: pre;
+}
+
+section pre {
+    background-color: #1a2a4a;
+    color: #ffffff;
+    padding: 25px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-top: 20px;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+}
+section.next-steps-container ul,
+section h2[id*="next"] + p + ul {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 10px 0 10px 20px !important;
+    margin-top: 10px;
+}
+
+section.next-steps-container ul li {
+    color: #1e3a8a;
+    margin-bottom: 12px;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+section.next-steps-container ul li em,
+section.next-steps-container ul li span {
+    color: #64748b;
+    font-weight: normal;
+}
+section.next-steps-container ul,
+section h2[id*="next"] + p + ul {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 10px 0 10px 20px !important;
+    margin-top: 10px;
+}
+
+section.next-steps-container ul li {
+    color: #1e3a8a;
+    margin-bottom: 12px;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+section.next-steps-container ul li em,
+section.next-steps-container ul li span {
+    color: #64748b;
+    font-weight: normal;
+}
+section div.tools-container,
+section h2 + div {
+    background-color: #eae8f5;
+    border-radius: 6px;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+section div.tools-container h3 {
+    color: #1e3a8a;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+section div.tools-container ul {
+    margin-left: 20px;
+    color: #334155;
+}
+
+section div.tools-container li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+section.congrats-section {
+    background-color: #3b82f6;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 35px;
+    text-align: center;
+    border-left: none;
+    margin-top: 40px;
+}
+
+section.congrats-section h2 {
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+section.congrats-section p {
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+section.congrats-section p em {
+    color: #e0f2fe;
+    font-weight: 500;
+}
+<section>
+    <h2>🔧 Development Tools</h2>
+    <div class="tools-container">
+        <h3>Recommended Tools:</h3>
+        <ul>...</ul>
+    </div>
+</section>
+
+<section class="congrats-section">
+    <h2>🎉 Congratulations!</h2>
+    <p>You've completed the HTML Learning Project!...</p>
+    <p>Keep practicing and building...</p>
+    <p><em>Remember: The best way to learn HTML is by doing...</em></p>
+</section>
+section.congrats-section {
+    background-color: #5551cc;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 35px;
+    text-align: center;
+    border-left: none;
+    margin-top: 40px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
